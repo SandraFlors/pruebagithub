@@ -1,2 +1,2 @@
 # pruebagithub
-esrta es una prueba de github
+esta es una prueba de github
